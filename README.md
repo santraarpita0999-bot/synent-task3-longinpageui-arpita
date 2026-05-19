@@ -1,4 +1,4 @@
-Built a clean and responsive Login UI using HTML, CSS, and JavaScript with features like:
+Built a clean and responsive Login UI using HTML, CSS with features like:
 
 ✅ Modern & responsive design
 ✅ Email and password input fields
@@ -11,4 +11,3 @@ This project helped me improve my frontend development skills and UI designing c
 Tech Used:
 💻 HTML5
 🎨 CSS3
-⚡ JavaScript
